@@ -1,1 +1,1 @@
-# https-github.com-dr-matt-smith-unity-cookbook-2020-ch06-01-flipping-sprite-horizontally
+# unity-cookbook-2020-ch06-01-flipping-sprite-horizontally
